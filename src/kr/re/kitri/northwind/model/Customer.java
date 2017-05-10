@@ -1,5 +1,7 @@
 package kr.re.kitri.northwind.model;
 
+import java.util.Date;
+
 /**
  * Created by danawacomputer on 2017-05-10.
  */
